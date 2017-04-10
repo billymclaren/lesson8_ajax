@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 9, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(William McLaren)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project I added 8 items of information to a movie databse webpage. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://billymclaren.github.io/lesson7_ajax/Lesson8_Assignment_Files/index.html)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (AJAX primarily relies on JavaScript and HTTP requests to exchange data between a client computer and a Web server.)
+2. (With AJAX, the JavaScript does not have to wait for the server response, but can instead execute other scripts while waiting for the server response.)
+3. (An HTTP response message returns to the client the message and the status code. If the status code is 200, then the request was successful.)
